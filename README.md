@@ -1,4 +1,4 @@
-### Olá! Sou Carlos Eduardo 😄
+## Olá! Sou Carlos Eduardo 😄
 
 - 🌱 I’m currently learning front-end/web development technologys;
 - 💼 I’m looking for job opportunities;
