@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá! Sou Carlos Eduardo 😄</h1>
+<h1 align="left">Olá! I'm Carlos Eduardo 😄</h1>
 
 - 🖥 Currently learning front-end/web development technologys;
 - 💼 I’m looking for job opportunities;
