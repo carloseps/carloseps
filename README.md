@@ -1,6 +1,6 @@
-div align="right"
-img src="https://user-images.githubusercontent.com/57776584/174638871-a93bd82d-a034-4b78-b27d-f303ca8592c2.png" width="0px" /
-/div
+<div align="right">
+img src="https://user-images.githubusercontent.com/57776584/174638871-a93bd82d-a034-4b78-b27d-f303ca8592c2.png" width="0px" 
+</div>
 
 <h1 align="left">Hello! I'm Carlos Eduardo 😄</h1>
 
