@@ -4,7 +4,7 @@
 - 🖥 Currently learning front-end/web development technologys;
 - 💼 I’m looking for job opportunities;
 - 📫 Contact me on email: dev.carloseps@gmail.com;
-- 😉 Remember => Everything is impossible until someone do.
+- 😉 Remember ➡ Everything is impossible until someone do.
 
 ## 🛠️ &nbsp;Languages and Tools
 
