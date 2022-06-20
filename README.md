@@ -23,6 +23,8 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)&nbsp;
 
-<b>what we do in life, echoes in eternity </b><i>- the gladiator</i>
+<b>"what we do in life, echoes in eternity". </b><i>- the gladiator</i>
+
+
 
 &nbsp;![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseps&show_icons=true&theme=tokyonight)
