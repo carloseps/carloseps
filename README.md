@@ -3,7 +3,7 @@
 <h1 align="left">Hello! I'm Carlos Eduardo 😄</h1>
 
 - 🖥 Currently learning front-end/web development technologies;
-- 💼 I’m looking for job opportunities;
+- 💼 Looking for job opportunities;
 - 📫 Contact me on email: dev.carloseps@gmail.com;
 - 😉 Remember ➡ Everything is impossible until someone do.
 
@@ -22,5 +22,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)&nbsp;
+
+<i>what whe do in life, echoes in eternity - the gladiator</i>
 
 &nbsp;![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseps&show_icons=true&theme=tokyonight)
