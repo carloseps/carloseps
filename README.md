@@ -1,7 +1,7 @@
 
 <h1 align="left">Hello! I'm Carlos Eduardo 😄</h1>
 
-- 🖥 Currently learning front-end/web development technologys;
+- 🖥 Currently learning front-end/web development technologies;
 - 💼 I’m looking for job opportunities;
 - 📫 Contact me on email: dev.carloseps@gmail.com;
 - 😉 Remember ➡ Everything is impossible until someone do.
