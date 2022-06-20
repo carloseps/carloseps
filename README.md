@@ -1,4 +1,4 @@
-<img align="right" width="330px" src="https://user-images.githubusercontent.com/57776584/174641900-4fdbd5fb-eba4-4a22-8d0e-8570308cce77.png" />
+<img align="right" width="330px" src="https://user-images.githubusercontent.com/57776584/174644128-aba8ae6a-97eb-4cb9-ab3f-37fd5b7b877d.png" />
 
 <h1 align="left">Hello! I'm Carlos Eduardo 😄</h1>
 
