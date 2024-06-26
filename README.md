@@ -2,7 +2,7 @@
 
 <h1 align="left">Hello! I'm Carlos Eduardo 😄</h1>
 
-- 🖥 Currently learning front-end/web development technologies;
+- 🖥 Currently learning fullstack development technologies;
 - 💼 Java WEB Developer on ESIG Software;
 - 📫 Contact me on email: dev.carloseps@gmail.com;
 - 😉 Remember ➡ Everything is impossible until someone do.
