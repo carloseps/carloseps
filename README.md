@@ -1,9 +1,9 @@
 <img align="right" width="330px" src="https://user-images.githubusercontent.com/57776584/174644128-aba8ae6a-97eb-4cb9-ab3f-37fd5b7b877d.png" />
 
-<h1 align="left">Hello! I'm Carlos Eduardo 😄</h1>
+<h1 align="left">Hello! I'm Carlos Eduardo</h1>
 
 - 🖥 Currently learning fullstack development technologies;
-- 💼 Java WEB Developer on ESIG Software;
+- 💼 Java Developer on ESIG Software;
 - 📫 Contact me on email: dev.carloseps@gmail.com;
 - 😉 Remember ➡ Everything is impossible until someone do.
 
