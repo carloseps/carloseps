@@ -3,7 +3,7 @@
 <h1 align="left">Hello! I'm Carlos Eduardo</h1>
 
 - 🖥 Currently learning fullstack development technologies;
-- 💼 Java Developer on ESIG Software;
+- 💼 Java Developer
 - 📫 Contact me on email: dev.carloseps@gmail.com;
 - 😉 Remember ➡ Everything is impossible until someone do.
 
@@ -24,6 +24,7 @@
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+...
 
 <b>"what we do in life, echoes in eternity". </b><i>- the gladiator</i>
 
